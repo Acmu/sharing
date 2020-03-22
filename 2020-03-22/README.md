@@ -39,3 +39,16 @@ million 百万富翁, B 站 UP 主.
 结合 bi- 是两倍的意思, tri-有三倍的意思.
 
 那么, 以百万为点, 展开就可以清楚地认识 billion, trillion 的意思了.
+
+
+
+#### 八爪鱼
+
+octa 八边形
+
+octotree 八爪树插件
+
+octagon 数学中的八边形
+
+octo pus 章鱼
+
