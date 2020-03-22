@@ -52,5 +52,11 @@ octagon 数学中的八边形
 
 octo pus 章鱼
 
+你猜我修改域名的时候发现了什么?
+github的帮助文档中对章鱼猫的翻译是:
+octa cat
+>关于自定义域名和 GitHub 页面
+GitHub Pages 支持使用自定义域名，或者将网站的 URL 根目录从默认值（如 octocat.github.io）更改为您拥有的任何域名。
+
 
 halo
